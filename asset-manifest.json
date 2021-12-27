@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/calendarhan/static/css/main.6f81f3c5.css",
+    "main.js": "/calendarhan/static/js/main.d2efcc15.js",
+    "static/js/787.9b58a23d.chunk.js": "/calendarhan/static/js/787.9b58a23d.chunk.js",
+    "static/media/bg-cal.jpg": "/calendarhan/static/media/bg-cal.9ab3dcce136d8e031167.jpg",
+    "static/media/icon-hc.png": "/calendarhan/static/media/icon-hc.daa1004627696a4eb12f.png",
+    "static/media/bg-1.jpg": "/calendarhan/static/media/bg-1.d20e8779e314cdd2c803.jpg",
+    "index.html": "/calendarhan/index.html",
+    "main.6f81f3c5.css.map": "/calendarhan/static/css/main.6f81f3c5.css.map",
+    "main.d2efcc15.js.map": "/calendarhan/static/js/main.d2efcc15.js.map",
+    "787.9b58a23d.chunk.js.map": "/calendarhan/static/js/787.9b58a23d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f81f3c5.css",
+    "static/js/main.d2efcc15.js"
+  ]
+}
